@@ -3,7 +3,7 @@
 //  UpdownGame
 //
 //  Created by MAC on 2023/02/25.
-//  커밋 테스트입니다
+//  커밋 테스트2
 //
 
 import UIKit
